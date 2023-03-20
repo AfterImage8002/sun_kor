@@ -1,11 +1,18 @@
-﻿l_english:
- ARM_cooperating_group_leader:0 "Collaboration Group Leader"
- ARM_independence_activist:0 "Independence Activist"
- ARM_minister_welfare_reconstruction:0 "Minister of Welfare and Reconstruction"
- ARM_former_doctor:0 "Former Doctor"
- ARM_Armenian_Legion_chief:0 "Commander of the Armenian Legion"
- ARM_influential_person:0 "The Big Wheel of the Party"
- ARM_diplomat_propaganda_department:0 "Diplomat from the Department of Propaganda"
- ARM_construction_industry_professional:0 "Construction Expert"
- ARM_worker_council_chairman:0 "Chairman of the Workers' Council"
- ARM_industrialist:0 "Industrialist"
+﻿l_japanese:
+#国家方針
+#アイデア
+#イベント
+#ディシジョン
+#フラグ
+#ツールチップ
+#その他
+ ARM_cooperating_group_leader:0 "협력단체 지도자"
+ ARM_independence_activist:0 "독립운동가"
+ ARM_minister_welfare_reconstruction:0 "복지부 장관 겸 부흥부 장관"
+ ARM_former_doctor:0 "전직 의사"
+ ARM_Armenian_Legion_chief:0 "아르메니아 군단 사령관"
+ ARM_influential_person:0 "당의 실력자"
+ ARM_diplomat_propaganda_department:0 "선전 부문 출신의 외교관"
+ ARM_construction_industry_professional:0 "건설업 전문가"
+ ARM_worker_council_chairman:0 "노동자 평의회 의장"
+ ARM_industrialist:0 "산업가"
