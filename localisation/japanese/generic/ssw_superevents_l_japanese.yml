@@ -1,0 +1,361 @@
+﻿l_japanese:
+#スーパーイベントリワーク
+#ALF:砂漠の盾作戦
+ SE_ALF_operation_desert_shield_t:0 "砂漠の盾作戦"
+ SE_ALF_operation_desert_shield_d:0 "彼らは打ち砕かれ、我々の戦闘目的は達成されるであろう。\nそれ即ちアメリカの、民主主義の、そして自由の勝利である。"
+ SE_ALF_operation_desert_shield_e:0 "自由への道は開かれた"
+#ドイツ内戦
+ SE_GER_civil_war_t:0 "ドイツ内戦"
+ SE_GER_civil_war_d:0 "帝国はアジア的で且つ、巧妙に破壊された。 \n-アドルフ・ヒトラー"
+ SE_GER_civil_war_e:0 "帝国の終焉だ!!"
+#日本内戦(共産主義)
+ SE_JAP_anpo_protests_t:0 "血の太陽の夜明け"
+ SE_JAP_anpo_protests_d:0 "いかなる運動も美的感激なしには起こらない。 宗教も道徳も、 国家も社会も、 それらがあたえる美的感激を失う時は滅亡する。 \n-石川三四郎"
+ SE_JAP_anpo_protests_e:0 "無産の民を決起せよ!"
+#USA 第二次アメリカ内戦
+ SE_2nd_american_civil_war_t:0 "第二次アメリカ内戦"
+ SE_2nd_american_civil_war_d:0 "アメリカは外部から破壊されることはないだろう。\nもし我々が失敗し自由を失うならば、それは自分自身を破壊したからである。\n-エイブラハム・リンカーン"
+ SE_2nd_american_civil_war_e:0 "自由は闇の中へと……"
+#TUV トゥヴァ建国
+ SE_TUV_tuva_t:0 "トゥヴァ建国"
+ SE_TUV_tuva_d:0 "タンヌ……なんだって？ \n-Paradox Interactive"
+ SE_TUV_tuva_e:0 "我、トゥヴァ人なり "
+#ドナウ戦争
+ SE_donau_war_t:0 "ドナウ戦争"
+ SE_donau_war_d:0 "この武力衝突を通じてヨーロッパ全土の平和に対する大きなリスクを考えると、\nバルカン半島の国家問題を解決するための穏やかな方法が見つからなかったことに\nさらに不平を言わなければならない。\n                           -ヘルシンキ新聞の社説"
+ SE_donau_war_e:0 "静寂は破られた"
+#RBL ロシア統一
+ SE_RBL_unification_rossia_t:0 "ロシア統一"
+ SE_RBL_unification_rossia_d:0 "これは今まで誰も聞いたことのない音楽だ。\n-セルゲイ・コロリョフ"
+ SE_RBL_unification_rossia_e:0 "ロシア統一万歳"
+#SPR 共通の革命闘争
+ SE_SPR_common_revolutionary_struggle_t:0 "共通の革命闘争"
+ SE_SPR_common_revolutionary_struggle_d:0 "全ては虚しい -パブロ・ピカソ"
+ SE_SPR_common_revolutionary_struggle_e:0 "世界を黒く染めよ!"
+#SPR 共産主義化(穏健革命)
+ SE_SPR_communism_travaho_t:0 "スペイン人民共和国の成立"
+ SE_SPR_communism_travaho_d:0 "有頂天の歓喜は常に悲哀に転ずる \n-ミゲル・デ・セルバンテス"
+ SE_SPR_communism_travaho_e:0 "世界を解放せよ!"
+#SPR 共産主義化(暴力革命)
+ SE_SPR_communism_armado_t:0 "西欧の狂牛"
+ SE_SPR_communism_armado_d:0 "世間が決して飽きない唯一のものは誇張表現だ \n-サルバドール・ダリ"
+ SE_SPR_communism_armado_e:0 "世界革命とは皆殺しである。"
+#ITA 第二次ローマ進軍
+ SE_ITA_2nd_marcia_su_roma_t:0 "第二次ローマ進軍"
+ SE_ITA_2nd_marcia_su_roma_d:0 "神は存在しない。\n流された血により、時は進んでいる。\n-ベニート・ムッソリーニ"
+ SE_ITA_2nd_marcia_su_roma_e:0 "Roma e nostra!"
+
+#アジア戦争終結
+ asian_war_1:0 "亜細亜戦争"
+ asian_war_2:0 "光復戦争"
+ SE_asian_war_end_t:0 "[asian_war]終結"
+ SE_asian_war_end_d:0 "國破れて 山河在り 城春にして 草木深し\n時に感じて 花にも涙を濺ぎ  別れを恨んで 鳥にも心を驚かす - 杜甫"
+ SE_asian_war_end_e:0 "東亜に平穏のあらんことを"
+#アジア戦争勃発
+ SE_asian_war_start_t:0 "[asian_war]勃発"
+ SE_asian_war_start_d:0 "四方の海 みなはらからと 思う世に \nなど波風の たちさわぐらん\n                  -明治天皇"
+ SE_asian_war_start_e:0 "過ちは繰り返される"
+#HUN ハンガリー国民統一戦線
+ SE_HUN_homeland_and_revenge_t:0 "祖国と復讐"
+ SE_HUN_homeland_and_revenge_d:0 "指が5本ついている手が2つあると思うな。\n  -フランツ・リスト"
+ SE_HUN_homeland_and_revenge_e:0 "祖国に喝采を!"
+#HUN 無政府主義化
+ SE_HUN_black_revolution_t:0 "黒色革命"
+ SE_HUN_black_revolution_d:0 "国を売り渡す者よ、私を吊るす革紐は用意出来たかね？ \n -ホルティ・ミクローシュ"
+ SE_HUN_black_revolution_e:0 "黒き太陽が昇る……"
+#HUN コルチャーク復活
+ SE_HUN_different_kind_of_empire_t:0 "異形の帝国"
+ SE_HUN_different_kind_of_empire_d:0 "真実は目に痛い。 -ロシアのことわざ"
+ SE_HUN_different_kind_of_empire_e:0 "帝国万歳!"
+#CHI 救国政変
+ SE_CHI_salvation_struggle_t:0 "救国政変"
+ SE_CHI_salvation_struggle_d:0 "仇に報いるに徳をもってせよ   -蒋介石"
+ SE_CHI_salvation_struggle_e:0 "血肉で築こう新たな長城を!"
+#ALF デンバー攻略
+ SE_ALF_kill_LFF_t:0 "左翼戦線を打倒"
+ SE_ALF_kill_LFF_d:0 "自由がアメリカを、アメリカたらしめる。\n他の誰も我らのアメリカを奪うことは不可能である。\n -ハロルド・リー・ジョージ"
+ SE_ALF_kill_LFF_e:0 "Freedom will rise again!"
+#LFF デニーキンがアメリカを掌握
+ SE_LFF_denikin_t:0 "デニーキン事件"
+ SE_LFF_denikin_d:0 "我々の恐れなければならないのは、恐れることそのものである。 \n             -フランクリン・D・ルーズベルト"
+ SE_LFF_denikin_e:0 "民主主義と共に!"
+#SOV モスクワ解放
+ SE_SOV_liberate_moscow_t:0 "モスクワ解放"
+ SE_SOV_liberate_moscow_d:0 "ついに我々は悪魔どもを我が首都からの追放に成功した!\nしかしまだこれは祖国解放の序章の終わりにしか過ぎない。"
+ SE_SOV_liberate_moscow_e:0 "ソビエトよ永遠に"
+#FSA キリスト教連邦
+ SE_FSA_unification_america_t:0 "キリスト教連邦の夜明け"
+ SE_FSA_unification_america_d:0 "幸せを与えてくれるのは、富でも豪華さでもなく、\n穏やかさと仕事である。\n                     -トマス＝ジェファソン"
+ SE_FSA_unification_america_e:0 "陽光は新世界を照らし出す"
+#TEX 連合国による統一
+ SE_TEX_unification_america_t:0 "連合国による統一"
+ SE_TEX_unification_america_d:0 "ひるむな兵士たちよ、進め、進め!さあ、敵の銃弾と銃剣が待っているぞ。\nそれでも私について来る者はいるか! -ルイス・アーミステッド"
+ SE_TEX_unification_america_e_1:0 "今度は我らが勝者だ!"
+ SE_TEX_unification_america_e_2:0 "数世紀を隔て彼らは甦った。"
+#LFF アメリカ統一
+ SE_LFF_unification_america_t:0 "§R赤い星条旗§!"
+ SE_LFF_unification_america_d:0 "封建制が奴隷制よりも進歩し、資本主義が封建制の次の段階であったように、 社会主義は資本主義の次の段階である。\n                -ガス・ホール"
+ SE_LFF_unification_america_e_1:0 "素晴らしい一日だな。"
+ SE_LFF_unification_america_e_2:0 "ソビエトの二の舞となってくれ……"
+#INS スカルノ結婚
+ SE_INS_bright_wedding_t:0 "明るい結婚式"
+ SE_INS_bright_wedding_d:0 "他人の好みにかなう妻より、自分の好みにかなう妻を求めよ。 \n                      -ルソー"
+ SE_INS_bright_wedding_e_1:0 "祝え!"
+ SE_INS_bright_wedding_e_2:0 "気楽でいいな"
+#INS インドネシアの粛清事件
+ SE_INS_presidential_decree_334_t:0 "暗いニュピ ～臨時大統領令334号～"
+ SE_INS_presidential_decree_334_d:0 "恐怖はつねに人間の中に何か正しくないことが生じた徴侯である。\n…恐怖は、苦痛が肉体に対して果すのと同様に、精神に対しても貴重な警告者の役目を果す。\n                                   -ヒルティ"
+ SE_INS_presidential_decree_334_e_1:0 "邪魔者は抹消されていく……"
+ SE_INS_presidential_decree_334_e_2:0 "恐ろしや……"
+#HON ホンジュラスによる進駐
+ SE_HON_occupation_nicaragua_coast_t:0 "北カリブ海岸への進駐"
+ SE_HON_occupation_nicaragua_coast_d:0 "山中では何も見えない。最初は何もかもが暗黒に支配されているが、だんだんと猫になったかのように見え始める。暗黒の中にも輪郭ができ始め、土地の様子がわかるようになってくる。だが、最初はすべてが同じように見えていた。我々は、ほとんど膝まで水に浸かった状態で、溝の中をすすんだ。私は、立ち止まって靴の中の水を捨てようかどうしようか、迷っていた。\n                            -アウグスト・セサル・サンディーノ"
+ SE_HON_occupation_nicaragua_coast_e_1:0 "フルーツ。そこにそれがあるだけで我々は団結するのだ!"
+ SE_HON_occupation_nicaragua_coast_e_2:0 "犬どもに裁きを!"
+ SE_HON_occupation_nicaragua_coast_e_3:0 "和解を祈ろう。"
+#BRM ビルマ内戦
+ SE_BRM_civil_war_t:0 "ビルマ内戦"
+ SE_BRM_civil_war_d:0 "もしこれらの騒乱が我らに対する挑戦なら\n剣と剣、槍と槍を交えなくてはならない。\n           -ネ・ウィン"
+ SE_BRM_civil_war_e:0 "混沌が目を覚ます……"
+#LFF ホール大統領
+ SE_LFF_president_hall_t:0 "ホール大統領"
+ SE_LFF_president_hall_d:0 "戦争に備えることは、平和を守る最も有効な手段のひとつである。\n                   -ジョージ・ワシントン"
+ SE_LFF_president_hall_e_1:0 "革命万歳!"
+ SE_LFF_president_hall_e_2:0 "化け物が……"
+#ベトナム戦争
+ SE_vietnam_war_start_t:0 "ベトナム戦争"
+ SE_vietnam_war_start_d:0 "大胆に前進しよう。勝利は必ずわれわれのものだ。\n                -ホーチミン"
+ SE_vietnam_war_start_e:0 "戦争は地獄だ"
+#オーストリア＝ハンガリー復活
+ SE_AHE_revive_t:0 "ドナウの帝国"
+ SE_AHE_revive_d:0 "本は私達の中の凍った海の斧でなければなりません。\n                -フランツ・カフカ"
+ SE_AHE_revive_e:0 "大帝国が蘇った。"
+
+#エルサルバドル大粛清
+ SE_ELS_massive_purge_t:0 "エルサルバドル大粛清"
+ SE_ELS_massive_purge_d:0 "人間の死よりも蟻の死の方が重いのだ。\n人間の死は転生の始まりだが、蟻にとって死は永遠であるからだ。\n-マクシミリアーノ・エルナンデス・マルティネス"
+ SE_ELS_massive_purge_e_1:0 "我々は死者を新たな生へと送り出したのだ……"
+ SE_ELS_massive_purge_e_2:0 "これは参考になるな"
+ SE_ELS_massive_purge_e_3:0 "恐ろしや……"
+ SE_ELS_massive_purge_e_4:0 "軍政の狂気だ"
+#エルサルバドルで革命
+ SE_ELS_revolution_t:0 "エルサルバドルで革命!"
+ SE_ELS_revolution_d:0 "歴史がペンで書けなくなった時、\nペンではなく、ライフルで歴史を書かなければならない。\n-アグスティン・ファブランド・マルティ"
+ SE_ELS_revolution_e_1:0 "これは他人事ではないな"
+ SE_ELS_revolution_e_2:0 "労働者はバナナを育てるためだけの生物ではないのか？ "
+ SE_ELS_revolution_e_3:0 "ああ……"
+ SE_ELS_revolution_e_4:0 "我々の悲願はついに実現した!"
+ SE_ELS_revolution_e_5:0 "共産主義の波は広がりつつある……"
+ SE_ELS_revolution_e_6:0 "素晴らしい"
+#インドシナ戦争
+ SE_indochina_war_start_t:0 "インドシナ戦争"
+ SE_indochina_war_start_d:0 "この悲惨な国運の末路に遭って、男児何人か無念骨髄に徹せぬものがありましょう？ー ファン・ボイ・チャウ"
+ SE_indochina_war_start_e:0 "インドシナが燃える……"
+#第二次日本革命
+ SE_JAP_2nd_revolution_t:0 "第二次日本革命"
+ SE_JAP_2nd_revolution_d:0 "嘘をつくなという教育はよくない。権力者は昔から嘘をついている。\n嘘をつくなと言うよりも、権力者の嘘を見破る知恵を授けよ。それが教育だ。 -武谷三男"
+ SE_JAP_2nd_revolution_e_1:0 "革命万歳!"
+ SE_JAP_2nd_revolution_e_2:0 "また一つアカが増えたようだな"
+#関東事変
+ SE_JAP_kanto_incident_t:0 "関東事変"
+ SE_JAP_kanto_incident_d:0 "人民から愛される党であり、共産党と聞いて逃げ出すような印象を与えてはならない\n-野坂参三"
+ SE_JAP_kanto_incident_e:0 "日本は一転した。"
+
+#エイブラハム作戦
+ SE_JAP_operation_abraham_t:0 "エイブラハム作戦"
+ SE_JAP_operation_abraham_d:0 "民衆は上からではなく、下から更新される。-ウッドロウ・ウィルソン"
+ SE_JAP_operation_abraham_e_1:0 "もう一度破壊してやろう。"
+ SE_JAP_operation_abraham_e_2:0 "次こそは必ず!"
+ SE_JAP_operation_abraham_e_3:0 "物騒だな"
+
+#クラウディウス作戦
+ SE_JAP_operation_claudius_t:0 "クラウディウス作戦"
+ SE_JAP_operation_claudius_d:0 "堕落した自由人は最悪の奴隷である。-デイヴィッド・ギャリック"
+ SE_JAP_operation_claudius_e_1:0 "粉砕しろ"
+ SE_JAP_operation_claudius_e_2:0 "返り討ちにしてやる!"
+ SE_JAP_operation_claudius_e_3:0 "やれやれ……"
+#大中東戦争
+ SE_JAP_operation_great_middle_east_war_t:0 "大中東戦争"
+ SE_JAP_operation_great_middle_east_war_d:0 "自由と独立は我が特質である。-ムスタファ・ケマル"
+ SE_JAP_operation_great_middle_east_war_e_1:0 "道路の分際で……"
+ SE_JAP_operation_great_middle_east_war_e_2:0 "今こそムスリムが手を組む時だ!"
+ SE_JAP_operation_great_middle_east_war_e_3:0 "またアカが暴れたようだ"
+
+#ジムスギント作戦
+ SE_JAP_operation_jiggsmund_t:0 "ジムスギント作戦"
+ SE_JAP_operation_jiggsmund_d:0 "長いこと考え込んでいる者が、いつも最善のものを選ぶわけではない。\n-ヨハン・ゲーテ"
+ SE_JAP_operation_jiggsmund_e_1:0 "焼き払え!"
+ SE_JAP_operation_jiggsmund_e_2:0 "くたばれ!"
+ SE_JAP_operation_jiggsmund_e_3:0 "アカの分際で……"
+
+#張献忠作戦
+ SE_JAP_operation_zhang_xianzhong_t:0 "張献忠作戦"
+ SE_JAP_operation_zhang_xianzhong_d:0 "義を見てせざるは勇無きなり。-孔子"
+ SE_JAP_operation_zhang_xianzhong_e_1:0 "殲滅しろ。"
+ SE_JAP_operation_zhang_xianzhong_e_2:0 "時は来た。"
+ SE_JAP_operation_zhang_xianzhong_e_3:0 "恐ろしい情勢だ"
+#マラヤ革命
+ SE_MAL_revolution_t:0 "マラヤ革命"
+ SE_MAL_revolution_d:0 "一歩前進、二歩後退。 -ウラジーミル・レーニン"
+ SE_MAL_revolution_e_1:0 "何が起こっているんだ!？"
+ SE_MAL_revolution_e_2:0 "叩き潰せ!"
+ SE_MAL_revolution_e_3:0 "前進!前進!"
+#大ネパールの達成
+ SE_NEP_greater_nepal_t:0 "大ネパール王国"
+ SE_NEP_greater_nepal_d:0 "何も信じるな。どこで読もうが、誰が言おうが。私が言った言葉ですら信じるな。\nもしそれが、お前自身の良識と常識に反するのであれば。\n -ゴータマ・シッダールタ"
+ SE_NEP_greater_nepal_e_1:0 "ネパール万歳!"
+ SE_NEP_greater_nepal_e_2:0 "ふざけやがって……"
+ SE_NEP_greater_nepal_e_3:0 "田舎者め、調子に乗りやがって……"
+#東京クーデター
+SE_JAP_tokyo_subversion_t:0 "東京クーデター"
+SE_JAP_tokyo_subversion_d:0 "§Wいざゝらば同じく生を替へて、此本懐を達せん\n -楠木正成§!"
+SE_JAP_tokyo_subversion_e:0 "国難の時代には大事が起こる"
+#葉山の死
+SE_JAP_death_yoshiki_hayama_t:0 "葉山嘉樹死す"
+SE_JAP_death_yoshiki_hayama_d:0 "雨が降ってきたからって走ることはない。走ったって、先も雨だ。\n-坂本龍馬"
+SE_JAP_death_yoshiki_hayama_e:0 "巨星落つか……"
+#最も恐ろしき男 
+SE_JPX_the_scariest_man_t:0 "最も恐ろしき男"
+SE_JPX_the_scariest_man_d:0 "時は今 天が下しる 五月哉\n-明智光秀"
+SE_JPX_the_scariest_man_e:0 "旭日は再び昇る!"
+#大日本帝国の帰還
+SE_JPX_return_of_empire_japan_t:0 "大日本帝国の帰還"
+SE_JPX_return_of_empire_japan_d:0 "心に望み起こらば、困窮したるときを思い出すべし。 -徳川家康"
+SE_JPX_return_of_empire_japan_e_1:0 "天皇陛下万歳!"
+SE_JPX_return_of_empire_japan_e_2:0 "日は幾度も昇る……"
+#第二次日本内戦に無政府主義者が介入
+SE_JPC_anarchist_intervention_t:0 "無政府主義者の介入"
+SE_JPC_anarchist_intervention_d:0 "生は永久の闘いである。-大杉栄"
+SE_JPC_anarchist_intervention_e_1:0 "労働者革命万歳!"
+SE_JPC_anarchist_intervention_e_2:0 "赤き太陽は常に……"
+#ベトナム統一（越南民国）
+SE_TOK_unification_vietnam_t:0 "ベトナム統一"
+SE_TOK_unification_vietnam_d:0 "国の為に死ぬ 栄光の死である\n私の心は幸福だ 私の精神は光り輝く\n-グエン・タイ・ホック"
+SE_TOK_unification_vietnam_e:0 "ヴァントゥエヴィエットナムダンクオック!"
+#ベトナム統一（北ベトナム解放戦線）
+SE_SRV_unification_vietnam_t:0 "ベトナム統一"
+SE_SRV_unification_vietnam_d:0 "革命の闘士よ、蜂起の旗を高く掲げよ!\n祖国の聖なる呼びかけが、今響きわたる。\n - ホーチミン"
+SE_SRV_unification_vietnam_e:0 "独立万歳!"
+#ベトナム統一（南ベトナム解放戦線）
+SE_NLF_unification_vietnam_t:0 "ベトナム統一"
+SE_NLF_unification_vietnam_d:0 "今日、象が戦っているのはイナゴだろうが、\n明日になれば、腸を食いちぎられていよう - ホーチミン"
+SE_NLF_unification_vietnam_e:0 "独立万歳!"
+#ベトナム統一
+SE_TOK_unification_vietnam_2_t:0 "ベトナム統一"
+SE_TOK_unification_vietnam_2_d:0 "私がコーチシナに到着した時、感じたのは現地語が鳥のさえずりのようだった事だ。 アレクサンドル・ドゥ・ロード "
+SE_TOK_unification_vietnam_2_e:0 "統一万歳!"
+#第二次太平洋戦争 
+SE_FSA_2nd_pacific_war_t:0 "第二次太平洋戦争"
+SE_FSA_2nd_pacific_war_d:0 "我々が目指すものは、我々の時代が平和になることではない。\n我々の次の世代が平和になることだ。"
+SE_FSA_2nd_pacific_war_e:0 "次に太平洋はどれほどの命を飲み込むのだろうか。"
+#ルビコン作戦
+SE_NEL_operation_rubicon_t:0 "ルビコン作戦"
+SE_NEL_operation_rubicon_d:0 "力に訴えようとするとき、決してやってはならないことがある。\n負けることである。"
+SE_NEL_operation_rubicon_e:0 "大きな力は、より大きな力によって淘汰される運命にあるー。"
+#オストラント内戦
+SE_BAL_civil_war_t:0 "オストラント内戦"
+SE_BAL_civil_war_d:0 "反乱は永遠の不変の鉄則に従って潰される。-アドルフ・ヒトラー"
+SE_BAL_civil_war_e:0 "Ostland Für Immer!。"
+#山代吉宗が日本を掌握
+SE_JAP_yamashiro_takes_control_t:0 "山代吉宗が日本を掌握"
+SE_JAP_yamashiro_takes_control_d:0 "人の世は、必ず撃ち勝つを以って君と為す。-平将門"
+SE_JAP_yamashiro_takes_control_e:0 "東京は血に染まる"
+#野坂が日本を掌握
+SE_JAP_nosaka_takes_control_t:0 "野坂が日本を掌握"
+SE_JAP_nosaka_takes_control_d:0 "大事の義は、人に談合せず、一心に究めたるがよし。-伊達政宗"
+SE_JAP_nosaka_takes_control_e:0 "なるがままに"
+#緋黒き熒惑の赫き(国家社会主義の統一)
+SE_FSA_scarlet_black_and_glittering_t:0 "国家社会主義の統一"
+SE_FSA_scarlet_black_and_glittering_d:0 "混沌の足元には、焔が横たわっていたー。"
+SE_FSA_scarlet_black_and_glittering_e:0 "もはや地上に安息の地はない"
+#ヴァドソーの惨劇
+SE_NOR_scourge_of_vadso_t:0 "ヴァドソーの惨劇"
+SE_NOR_scourge_of_vadso_d:0 "燃え盛る家の中に人の気配はなかった。\nそこにあるのは朽ちゆく炭の塊だけだった。\n−あるノルウェー兵の手記"
+SE_NOR_scourge_of_vadso_e:0 "人間性との戦いだ"
+#NASDAP最後の日
+SE_GER_last_day_of_NASDAP_t:0 "NSDAP最後の日"
+SE_GER_last_day_of_NASDAP_d:0 "正しい行動は知識だけより良いものだ。しかし正しいことをするには何が正しいか知る必要がある-カール大帝"
+SE_GER_last_day_of_NASDAP_e:0 "第三帝国は幕を閉じた"
+#サヴィトリデヴィがインドを掌握
+SE_IND_devi_takes_control_t:0 "サヴィトリ・デヴィがインドを掌握"
+SE_IND_devi_takes_control_d:0 "我々の出発点は、人間は自分自身を知らない、自分自身ではないということ、\nつまり人間は、自分がなれるもの、またあるべきものでないということだ。\n-Ｐ・Ｄ・ウスペンスキー"
+SE_IND_devi_takes_control_e:0 "混沌がまた一つ……"
+#第二次アメリカ内戦
+SE_2nd_american_civil_war_Quentin_t:0 "第二次アメリカ内戦"
+SE_2nd_american_civil_war_Quentin_d:0 "自分ならできると信じれば、もう半分は終わったようなものだ。\n-セオドア・ルーズベルト"
+SE_2nd_american_civil_war_Quentin_e:0 "再び一つの国家へ……"
+#西洋の悪魔
+SE_GER_devil_in_the_west_t:0 "西洋の悪魔"
+SE_GER_devil_in_the_west_d:0 "自己をあらゆる武器で守ろうとしない制度は、事実上自己を放棄している\n-アドルフ・ヒトラー"
+SE_GER_devil_in_the_west_e:0 "世界は腐っていた"
+#有人月面探査
+SE_HGR_exploration_of_the_moon_t:0 "有人月面探査"
+SE_HGR_exploration_of_the_moon_d:0 "聖書は我々にいかに天へ行くかを教える。\nいかに諸天体が動くかを教えるのではない。-ガリレオ・ガリレイ"
+SE_HGR_exploration_of_the_moon_e:0 "人類の栄光だ"
+#有人火星探査
+SE_HGR_exploration_of_the_mars_t:0 "有人火星探査"
+SE_HGR_exploration_of_the_mars_d:0 "したがって、この星は彗星や流星ではなく、天空に輝く星そのものであり、\n私たちの時代はもちろん、有史以来、どの時代にも見られたことのない\n星であると結論づけている。-ティコ・ブラーエ"
+SE_HGR_exploration_of_the_mars_e:0 "不可能を可能へと変えた"
+#第三次世界大戦
+SE_world_war_3_t:0 "第三次世界大戦"
+SE_world_war_3_d:0 "より高みを目指すのをやめた者は、高みにいることはできない。\n-オリバー・クロムウェル"
+SE_world_war_3_e:0 "なるべくしてなった"
+#
+SE_FSA_sons_of_liberty_rise_up_t:0 "自由の息子が立ち上がる"
+SE_FSA_sons_of_liberty_rise_up_d:0 "名もない「行動」は、1人の「誰か」が名付けたとしても、まだ意味がない。\n-ハンナ・アーレント"
+SE_FSA_sons_of_liberty_rise_up_e:0 "思考を辞めた瞬間に、人間から堕落する。"
+#
+SE_VIN_unification_vietnam_t:0 "ベトナム統一"
+SE_VIN_unification_vietnam_d:0 "兄弟による戦争を終わらせ、平和と調和を取り戻す時が来た。 \n-バオダイ"
+SE_VIN_unification_vietnam_e:0 "統一万歳!"
+#
+SE_siberian_war_t:0 "シベリア戦争"
+SE_siberian_war_d:0 "必要とあれば、あなた方が全てを犠牲にして戦うことを求める。\n-アレクサンドル・コルチャーク"
+SE_siberian_war_e:0 "敵を一掃せよ"
+#
+SE_papuan_war_t:0 "パプア戦争"
+SE_papuan_war_d:0 "帝国主義とそれを保護するための闘争は我々の世界における大罪である。\n-スカルノ"
+SE_papuan_war_e:0 "パプアは我々のものだ"
+#
+SE_LFF_birth_of_president_gus_hall_t:0 "ガス・ホール大統領の誕生"
+SE_LFF_birth_of_president_gus_hall_d:0 "保守的な人が総じて馬鹿だという意味ではなく、\n馬鹿な人は総じて保守的であるということだ。\n-J.S.ミル"
+SE_LFF_birth_of_president_gus_hall_e:0 "全くもって想定外の事態だ"
+#
+SE_GER_wehrmacht_uprising_t:0 "国軍蜂起"
+SE_GER_wehrmacht_uprising_d:0 "我が聖なる祖国ドイツ万歳!\n-クラウス・フォン・シュタウフェンベルク"
+SE_GER_wehrmacht_uprising_e_1:0 "ドイツを汚す者に死を!"
+SE_GER_wehrmacht_uprising_e_2:0 "動乱の時代だ"
+
+#
+SE_ENG_birth_of_greater_britain_t:0 "グレーターブリテンの誕生"
+SE_ENG_birth_of_greater_britain_d:0 "小国の日は過ぎ去り、帝国の日が来た。\n-ジョセフ・チェンバレン"
+SE_ENG_birth_of_greater_britain_e_1:0 "Rule.Britannia!"
+SE_ENG_birth_of_greater_britain_e_2:0 "偉大さの代価は責任である"
+
+SE_balkan_wars_t:0 "バルカン戦争"
+SE_balkan_wars_d:0 "農民の息子たちよ、自分たちの手で、自分が生まれ育った地を守護しよう。\n-ルーマニア王フェルディナンド1世"
+SE_balkan_wars_e:0 "静寂は破られた"
+
+SE_russo_german_war_1_t:0 "ソビエト=ドイツ戦争"
+SE_russo_german_war_1_d:0 "歴史は無敗の軍隊が存在しないことを示している。\n-ヨシフ・スターリン"
+SE_russo_german_war_1_e_1:0 "ドイツの覇権を崩す時が来た"
+SE_russo_german_war_1_e_2:0 "今度は国の形すら消してやる"
+SE_russo_german_war_1_e_3:0 "話し合いでは駄目だったか…"
+SE_russo_german_war_1_e_4:0 "今度は何人死ぬんだろうな"
+
+SE_GER_economic_crisis_t:0 "ドイツ経済危機"
+SE_GER_economic_crisis_d:0 "国家の破滅は、流転する情熱の嵐によってのみ回避される\n-アドルフ・ヒトラー"
+SE_GER_economic_crisis_e:0 "これは終わりではなく、始まりだ。"
+
+#核開発1
+ BE_nuke_experiment_1_title:0 "地獄の幕開け"
+ BE_nuke_experiment_1_desc:0 "未来を考えない者に未来はない。\n-ヘンリー・フォード"
+ BE_nuke_experiment_1_a:0 "力を求める者のみが勝利する"
+#核開発2
+ BE_nuke_experiment_2_title:0 "新たな時代"
+ BE_nuke_experiment_2_desc:0 "戦争の恐怖を機械が計算することはできない。\n我々人類だけがその恐怖に直面し、克服することができる。\n- ミラン・ベイカー"
+ BE_nuke_experiment_2_a:0 "これが我々の決意である。"
+#核開発3
+ BE_nuke_experiment_3_title:0 "死の光"
+ BE_nuke_experiment_3_desc:0 "我は死神なり、世界の破壊者なり\n  -ユリウス・ロベルト・オッペンハイマー"
+ BE_nuke_experiment_3_a:0 "時は満ちた"

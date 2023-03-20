@@ -1,0 +1,29 @@
+﻿l_japanese:
+ conservative_grandee:0 "保守派の重鎮"
+ popular_father:0 "民衆の父"
+ militant_warrior:0 "好戦的な戦士"
+ gentle_warrior:0 "心優しき戦士"
+ count_of_paris:0 "パリ伯"
+ assassination_survivor:0 "暗殺からの生存者"
+ political_prisoner:0 "政治犯"
+ union_man:0 "組合員"
+ tenacious_defender:0 "粘り強い守り人"
+ ww_one_trauma:0 "先の大戦のトラウマ"
+ freemason:0 "フリーメーソン"
+
+#企業
+MBT_tank_manufacturer_1:0 "主力戦車の設計社
+MBT_tank_manufacturer_2:0 "主力戦車の設計社
+IFV_manufacturer_1:0 "歩兵戦闘車の設計社
+IFV_manufacturer_2:0 "歩兵戦闘車の設計社
+ssw_tank_manufacturer:0 "戦車設計社"
+ssw_train_manufacturer:0 "鉄道関連企業"
+ssw_anti_tank_manufacturer:0 "対戦車兵器の設計社"
+ssw_support_equipment_manufacturer:0 "支援装備の設計社"
+
+
+#勲章
+iron_cross_second_class:3 "鉄十字章（二級）"
+knights_cross:3 "騎士鉄十字章"
+knights_cross_oak_leaves:3 "騎士鉄十字章（柏葉付）"
+knights_cross_swords_and_diamonds:3 "騎士鉄十字章（柏葉・剣・ダイヤモンド付）"

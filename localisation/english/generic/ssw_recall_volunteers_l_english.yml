@@ -1,0 +1,5 @@
+﻿l_english:
+ RECALL_VOLUNTEERS_TITLE:0 "Recall Volunteers"
+ RECALL_VOLUNTEERS_ACTION_DESC:0 "Enables you to recall volunteers sent to other countries."
+ RECALL_VOLUNTEERS_TT:0 "§Y[This.GetNameWithFlag]§! needs to have §rvolunteers able to be recalled.§!"
+ RECALL_VOLUNTEERS_ALLOWED_TT:0 "§Y[This.GetNameWithFlag]§! needs to have volunteers able to be recalled."

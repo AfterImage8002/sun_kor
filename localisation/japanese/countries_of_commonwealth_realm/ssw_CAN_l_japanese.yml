@@ -1,0 +1,57 @@
+﻿l_japanese:
+#国家方針
+ CAN_Speech_of_StLaurent:0 "サンローランの演説"
+ CAN_Speech_of_StLaurent_desc:0 "カナダの偉大な首相であったマッケンジーキングの後任として就任したサンローランは、フランス系カナダ人であり、カナダの人種間での調停者としての役割が期待されている。その彼が、スピーチを行う。"
+ CAN_ReExpandation_of_the_Canadian_Force:0 "カナダ連邦軍の再拡大"
+ CAN_ReExpandation_of_the_Canadian_Force_desc:0 "アメリカ内戦の勃発はカナダに大きな衝撃をもたらした。カナダ軍は戦時体制への復帰をすることで、この未曽有の事態に対処しようという動きがある。"
+ CAN_First_Warzone_System:0 "準戦時体制への移行"
+ CAN_First_Warzone_System_desc:0 "カナダへの脅威が差し迫っている今、準戦時体制を構築し、カナダ軍の対応力を強化するべきだ。"
+ CAN_Enrichment_of_Defence_Industry:0 "国内軍需会社の充実"
+ CAN_Enrichment_of_Defence_Industry_desc:0 "わが軍は、英連邦からの技術供与によって軍備を整えているが、アメリカにおける脅威に対抗するには力不足だ。国内の軍需産業を拡充し、未曽有の脅威に備えるべきだ。"
+ CAN_Cooperation_with_Liberalist:0 "自由主義勢力との協力"
+ CAN_Cooperation_with_Liberalist_desc:0 "アメリカには合衆国政府の後継として、ニューイングランドや東海岸に自由主義勢力が残っている。彼らに接近してカナダの防衛力を高めるべきだ。"
+ CAN_Improvement_of_Troops:0 "部隊練度の向上"
+ CAN_Improvement_of_Troops_desc:0 "アメリカからの脅威が迫った時に備えて、カナダ軍全体の練度を向上することで有事の際の対応力を強化することができる。"
+ CAN_Strong_Military_Strategy:0 "強固な防衛戦略"
+ CAN_Strong_Military_Strategy_desc:0 "カナダ軍は依然として兵員不足であり、この広大な国境を守り切ることは難しい。柔軟且つ強固な防衛戦略を練ることで、我々の対応力を強化することができる。"
+ CAN_Maintain_This_Way:0 "現状を維持せよ"
+ CAN_Maintain_This_Way_desc:0 "カナダ軍を戦時のように拡大することは非現実的であり、我々は今できる事を成すべきだ。"
+ CAN_Preparation_for_Emergency:0 "有事への備え"
+ CAN_Preparation_for_Emergency_desc:0 "現状を維持しつつも、我々に差し迫る未曽有の脅威があることには変わらない。有事への備えを万全にすることが重要だ。"
+ CAN_Improvement_Production_Efficiency:0 "生産の効率化"
+ CAN_Improvement_Production_Efficiency_desc:0 "有事の際に装備が不足しては、祖国防衛すらままならなくなってしまう。竹槍で戦う自体にならぬよう、入念な準備をしておくべきだ。"
+ CAN_Technorogy_Cooperation_in_Commonwealth:0 "英連邦での技術連携"
+ CAN_Technorogy_Cooperation_in_Commonwealth_desc:0 "イギリスからより最新の技術を取り入れることで、戦闘を有利に進めることができるだろう。"
+ CAN_Draft_Bill_of_Home_Land_Defence:0 "本土防衛法案の提出"
+ CAN_Draft_Bill_of_Home_Land_Defence_desc:0 "本土防衛法を審議し、差し迫る南の脅威に備えよう。"
+#国民精神
+ CAN_UNPRECEDENTED_THREAT:0 "未曽有の脅威"
+ CAN_EXPANTION_OR_MAINTAIN:0 "軍拡か現状維持か"
+ CAN_LAW_OF_HOMELAND_DEFENCE_EXPANDATION:0 "本土防衛法「拡大化」"
+ CAN_LAW_OF_HOMELAND_DEFENCE_MAINTAIN:0 "本土防衛法「現状維持」"
+
+#ディシジョン
+ 
+
+#イベント
+ SSW_CAN.1.t:0 "サンローランの演説"
+ SSW_CAN.1.d:0 "[CAN.GetName]は未だ嘗てない未曽有の危機に立たされている。カナダ国民は準戦時体制を築き、この脅威に対抗するべきか、現状を維持し今できることのみをするべきか、意見が割れている。サンローランは、英語圏とフランス語圏との調停者として、そしてこの論争の調停者として、本土防衛法案を策定し、下院において審議を始めることを発表した。"
+ SSW_CAN.1.a:0 "軍備を拡大するべきだ"
+ SSW_CAN.1.b:0 "耳を貸すな"
+ SSW_CAN.2.t:0 "本土防衛法案の可決"
+ SSW_CAN.2.d:0 "[CAN.GetName]は未だ嘗てない未曽有の危機に立たされており、それらの脅威に対抗するためにサンローラン率いる自由党は本土防衛法案を提出した。この法案は全会一致で可決され、カナダ国民の自由を守るために、脅威へ立ち向かう方針を示した。"
+ SSW_CAN.2.a:0 "カナダ国民と国王陛下の為に!"
+ SSW_CAN.3.t:0 "テスト"
+ SSW_CAN.3.d:0 "100パーセント"
+ SSW_CAN.3.a:0 "はい"
+#ツールチップ
+ CAN_ReExpandation_of_the_Canadian_Force_TOOLTIP:0 "法案審議で連邦軍の拡大が支持された!"
+ CAN_First_Warzone_System_TOOLTIP:0 "この法案が可決されれば、我が国は直ちに準戦時体制に移行するだろう。"
+ CAN_Enrichment_of_Defence_Industry_TOOLTIP:0 "この法案には国内の軍需産業を支援する内容も盛り込まれるだろう。"
+ CAN_Cooperation_with_Liberalist_TOOLTIP:0 "法案可決のために政府首班と自由主義者との妥協を図られた。"
+ CAN_Maintain_This_Way_TOOLTIP:0 "この法案で体制が大きく変わることはないだろう。"
+ CAN_Preparation_for_Emergency_TOOLTIP:0 "来ないかもしれないその日のために軍事技術研究へ投資する。"
+ CAN_Improvement_Production_Efficiency_TOOLTIP:0 "この法案には生産性の向上に関する内容が盛り込まれるだろう。"
+ CAN_Technorogy_Cooperation_in_Commonwealth_TOOLTIP:0 "ないものは借りよう。この法案はそれを実行するのに最適だ。"
+ SSW_CAN_1953_LOAD:0 "新たな国家方針が解放される"
+ 

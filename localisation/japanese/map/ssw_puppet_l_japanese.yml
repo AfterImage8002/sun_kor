@@ -1,0 +1,45 @@
+﻿l_japanese:
+#puppet
+ autonomous_puppet:0 "自治傀儡国"
+ puppet:0 "傀儡国"
+ integrated_puppet:0 "統合傀儡国"
+
+#colony
+ dominion:0 "自治領"
+ colony:0 "植民地"
+ overseas_territory:0 "海外領土"
+
+#protectirate
+ protected_state:0 "保護国"
+ protected_territory:0 "保護領"
+ 
+#CHI
+ warlord:0 "軍閥"
+ federation_member:0 "連邦構成国"
+ 
+#GER
+ reichsatellite:0 "衛星国"
+ reichsprotectorate:0 "国家保護領"
+ reichskolonie:0 "国家植民地"
+ reichskommissariat:0 "国家弁務官区"
+ reichsland:0 "国家直轄地"
+ 
+#JAP
+ imperial_protectirate:0 "皇国保護国"
+ imperial_member:0 "皇国構成国"
+ imperial_overseas_territory:0 "外地"
+
+#SOV
+ republic_of_soviet_union:0 "ソビエト共和国"
+ autonomy_soviet_republic:0 "自治ソビエト共和国"
+
+#FSA
+ FSA_government_general:0 "総督府"
+
+#others
+ condominium:0 "共同統治領"
+ junior_partner_state:0 "同君連合下位国"
+ occupied_territory:0 "占領地域"
+ preindependence_government:0 "独立準備政府"
+ joint_special_economic_zone:0 "共同経済特区"
+ provisional_civil_administration_districts:0 "臨時民政地区"

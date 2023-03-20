@@ -1,0 +1,13 @@
+﻿l_japanese:
+#国家方針
+#アイデア
+#イベント
+#ディシジョン
+#フラグ
+#ツールチップ
+#その他
+ DAG_local_politician:0 "地域の政治家"
+ DAG_industrialist_diplomat:0 "産業家の外交官"
+ DAG_from_trade_department:0 "貿易部門出身"
+ DAG_NKVD_officer:0 "NKVD将校"
+ DAG_cavalry_commander:0 "騎兵指揮官"

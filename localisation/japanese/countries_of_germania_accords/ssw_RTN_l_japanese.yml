@@ -1,0 +1,18 @@
+﻿l_japanese:
+  # National Focus
+  RTN_strengthen_power:0 "航空隊の新設"
+  RTN_strengthen_power_desc:0 ""
+
+  # Decisions
+  RTN_show_variables:0 "変数を表示"
+  RTN_show_variables_desc:0 "[?RTN_aliance]"
+
+  # Traits
+  loyal_collaborator:0 "忠実な協力者"
+  
+  # Ideas
+  RTN_pavlo_shandruk:0 "Pavlo Shandruk"
+  #UKR_idea_available:0 "§Y閣僚§!§Wが§!§s利用可能§!\n"
+
+  # Events
+  # ssw_UKR.2.d:0 "近年の情勢の変化が影響したのか、我々と協力関係にあったウクライナ蜂起軍が抵抗運動を活発化させた。各地で破壊工作などが行われている。"

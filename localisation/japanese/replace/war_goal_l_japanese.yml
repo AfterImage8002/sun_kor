@@ -1,0 +1,7 @@
+﻿l_japanese:
+ debug_war_goal:0 "なんかむかつくから"
+ debug_war_goal_desc:0 "理由は特にないが、この国を攻撃せよ。理由は特にないが。"
+ give_us_back_our_men_wargoal:0 "重要人物の返還要求"
+ give_us_back_our_men_wargoal_desc:0 "重要人物を取り戻せ"
+ possession_of_weapons_of_mass_destruction_wargoal:0 "大量破壊兵器保持の疑い"
+possession_of_weapons_of_mass_destruction_wargoal_desc:0 "大量破壊兵器を保有している証拠を見つけよ"

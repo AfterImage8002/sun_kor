@@ -1,0 +1,26 @@
+﻿l_japanese:
+#内政
+ government1:0 "政府"
+ minister:0 "閣僚"
+ research_production1:0 "研究と生産"
+ military_chief:0 "参謀"
+ social_system:0 "社会体制"
+
+#経済法
+ social_anarchism_economy:0 "無政府主義経済"
+ economic_cannot_change:0 "経済法の変更がロックされていない"
+ emergency_economic_mobilisation:0 "緊急事態法"
+#貿易法
+full_state_control:0 "完全な国家管理"
+#閣僚
+ political_leader:0 "政府首班"
+ political_leader_cost_factor:0 "政府首班コスト"
+ minister_of_foreign_affairs:0 "外務大臣"
+ minister_of_finance:0 "財務大臣"
+ minister_of_interior:0 "内務大臣"
+ minister_of_defence:0 "国防大臣"
+ head_of_cab_available:0 "政治首班は手動で変更できません。\n今後のあなたと周辺国の行動によって左右されます。"
+ head_of_gov_available:0 "§R国家元首の手動での削除、追加は不可能です。§!イベント、国家方針、ディシジョンなどからでしか変更できません。"
+ minister_available:0 "§R閣僚の手動での削除、追加は不可能です。§!イベント、国家方針、ディシジョンなどからでしか変更できません。"
+ #vacancy_pl:0 "空席"
+ vacancy_tt:0 "効果を得ることはできない。"

@@ -1,0 +1,13 @@
+﻿l_japanese:
+#国家方針
+#アイデア
+#イベント
+#ディシジョン
+#フラグ
+#ツールチップ
+#その他
+ KAL_local_politician:0 "地域に尽くす政治家"
+ KAL_historian_editor:0 "歴史家兼編集者"
+ KAL_economic_planner:0 "経済計画の実行者"
+ KAL_agronomist:0 "農学者"
+ KAL_former_artillery_officer:0 "砲兵参謀"

@@ -1,0 +1,15 @@
+﻿l_japanese:
+ RECALL_VOLUNTEERS_TITLE:0 "義勇軍の撤兵"
+ RECALL_VOLUNTEERS_ACTION_DESC:0 "他国に送った義勇軍の召還が可能である。"
+ RECALL_VOLUNTEERS_TT:0 "§Y[This.GetNameWithFlag]§!は§r召還が可能な義勇軍が必要である。§!"
+ RECALL_VOLUNTEERS_ALLOWED_TT:0 "§Y[This.GetNameWithFlag]§!は召還が可能な義勇軍が必要である。"
+
+#RECALL_VOLUNTEERS_TITLE:0 "義勇軍の召還"
+#RECALL_VOLUNTEERS_ACTION_DESC:0 "他国に送った義勇軍の召還が可能である。"
+#RECALL_VOLUNTEERS_ACTION_SEND_DESC:0 "他国に送った義勇軍の召還が可能である。"
+#RECALL_VOLUNTEERS_ACTION_RECEIVER_DESC:0 "\n§Y$COUNTRY|U$§!は義勇軍を§R召還§!した。\n\n戦争は継続される。"
+#RECALL_VOLUNTEERS_TOOLTIP:0 "§Y[This.GetNameWithFlag]§!は§R召還が可能な義勇軍が必要である。§!"
+#RECALL_VOLUNTEERS_TOOLTIP_G:0 "§Y[This.GetNameWithFlag]§!は召還が可能な義勇軍が必要である。"
+#RECALL_VOLUNTEERS_ACTION_ACCEPTED_DESC:0 "\n§Y$COUNTRY|U$§!は義勇軍を§R召還§!した。\n\n戦争は継続される。"
+#RECALL_VOLUNTEERS_ACTION_ACCEPTED_MESSAGE:0 "\n§Y$From.GetNameDef|U$§!は義勇軍を§R召還§!した。\n\n戦争は継続される。"
+#RECALL_VOLUNTEERS_ACCEPTED_MESSAGE:0 "\n§Y$COUNTRY|U$§!は義勇軍を§R召還§!した。\n\n戦争は継続される。"

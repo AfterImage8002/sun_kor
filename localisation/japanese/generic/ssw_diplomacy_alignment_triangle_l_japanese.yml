@@ -1,0 +1,11 @@
+﻿l_japanese:
+ chart_button_label_tt:0 "陣営チャート"
+ flag_alignment_tt:0 "[THIS.GetName]"
+ main_factions_tt:0 "与党:[THIS.GetRulingParty]\n政体:[THIS.GetRulingIdeology]\n与党支持率:[THIS.GetPartySupport]%"
+ ideology_tt:0 "[THIS.GetRulingIdeology]"
+ factions_tt:0 "陣営"
+ GER_faction_title:0 "[?GER_ally_array^0.GetFactionName]"
+ JAP_faction_title:0 "[?JAP_ally_array^0.GetFactionName]"
+ ITA_faction_title:0 "[?ITA_ally_array^0.GetFactionName]"
+ ENG_faction_title:0 "[?ENG_ally_array^0.GetFactionName]"
+ SOV_faction_title:0 "[?SOV_ally_array^0.GetFactionName]"

@@ -1,0 +1,18 @@
+﻿l_japanese:
+#国家方針
+#アイデア
+#イベント
+#ディシジョン
+#フラグ
+#ツールチップ
+#その他
+ ARM_cooperating_group_leader:0 "協力団体指導者"
+ ARM_independence_activist:0 "独立活動家"
+ ARM_minister_welfare_reconstruction:0 "福祉大臣兼復興大臣"
+ ARM_former_doctor:0 "元医師"
+ ARM_Armenian_Legion_chief:0 "アルメニア軍団司令官"
+ ARM_influential_person:0 "党の実力者"
+ ARM_diplomat_propaganda_department:0 "宣伝部門出身の外交官"
+ ARM_construction_industry_professional:0 "建設業の専門家"
+ ARM_worker_council_chairman:0 "労働者評議会議長"
+ ARM_industrialist:0 "産業家"

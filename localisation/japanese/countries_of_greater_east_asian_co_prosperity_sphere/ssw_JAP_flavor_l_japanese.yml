@@ -1,0 +1,105 @@
+﻿l_japanese:
+#decision
+JAP_public_outreach:0 "国民への宣伝活動"
+JAP_memorial_ship:0 "記念艦"
+JAP_conversion_to_a_memorial_ship_Kongo:0 "記念艦金剛への改修"
+JAP_return_of_the_Kongo:0 "記念艦金剛を現役復帰させる"
+JAP_return_of_the_Kongo_desc:0 "戦時特例として、記念艦である戦艦金剛を現役に復帰させる。"
+JAP_return_of_the_Kongo_old_module:0 "金剛を余剰艤装で復帰させる"
+JAP_return_of_the_Kongo_new_module:0 "金剛を最新艤装で復帰させる"
+
+ JAP_navy_reorganization:0 "補助艦艇の再編"
+
+ JAP_mine_layer_available:0 "敷設艦等の再編"
+ JAP_mine_layer_dc:0 "機雷敷設艦及び掃海艇の再編を開始する、"
+ JAP_mine_layer_available_2:0 "敷設艦の再編"
+ JAP_mine_layer_not_available:0 "敷設艦の欄を閉じる"
+ JAP_seaplane_carrier_available:0 "水上機母艦・輸送艦等の再編"
+ JAP_seaplane_carrier_dc:0 "水上機母艦・輸送艦等の再編を開始する、"
+ JAP_seaplane_carrier_available_2:0 "水上機母艦・輸送艦の再編"
+ JAP_seaplane_carrier_not_available:0 "水上機母艦・輸送艦の欄を閉じる"
+
+ JAP_mine_layer_1:0 "第七号型掃海艇の再編成"
+ JAP_mine_layer_1_dc:0 "§G第七号型掃海艇の設計が利用可能になる§!\n"
+ JAP_mine_layer_1_ct:0 "30日ののち補助艦隊所属の§l第七号型掃海艇 六隻§!が予備艦隊に追加される。"
+
+ JAP_mine_layer_2:0 "第十九号型掃海艇の再編成"
+ JAP_mine_layer_2_dc:0 "§G第十九号型掃海艇の設計が利用可能になる§!\n"
+ JAP_mine_layer_2_ct:0 "30日ののち補助艦隊所属の§l第十九号型掃海艇 六隻§!が予備艦隊に追加される。"
+
+ JAP_mine_layer_3:0 "初鷹型敷設艦の再編成"
+ JAP_mine_layer_3_dc:0 "§G初鷹型敷設艦の設計が利用可能になる§!\n"
+ JAP_mine_layer_3_ct:0 "40日ののち補助艦隊所属の§l敷設艦 初鷹§!が予備艦隊に追加される。"
+
+ JAP_mine_layer_4:0 "初島型電纜敷設艇の再編成"
+ JAP_mine_layer_4_dc:0 "§G初島型電纜敷設艇の設計が利用可能になる§!\n"
+ JAP_mine_layer_4_ct:0 "40日ののち補助艦隊所属の§l初島型電纜敷設艦 四隻§!が予備艦隊に追加される。"
+
+ JAP_mine_layer_5:0 "勝力型特務艦の再編成"
+ JAP_mine_layer_5_dc:0 "§G勝力型特務艦の設計が利用可能になる§!\n"
+ JAP_mine_layer_5_ct:0 "35日ののち横須賀鎮守府所属の§l測量艦 勝力§!が予備艦隊に追加される。"
+
+ JAP_mine_layer_6:0 "夏島型敷設艇の再編成"
+ JAP_mine_layer_6_dc:0 "§G夏島型敷設艇の設計が利用可能になる§!\n"
+ JAP_mine_layer_6_ct:0 "20日ののち横須賀鎮守府所属の§l夏島型敷設艇 三隻§!が予備艦隊に追加される。"
+
+ JAP_mine_layer_7:0 "則天型敷設特務艇の再編成"
+ JAP_mine_layer_7_dc:0 "§G則天[I]型敷設特務艇の設計が利用可能になる§!\n"
+ JAP_mine_layer_7_ct:0 "40日ののち敷設艇隊の§l則天[I]型敷設特務艇 十一隻§!が予備艦隊に追加される。"
+
+ JAP_mine_layer_8:0 "燕型敷設艇の再編成"
+ JAP_mine_layer_8_dc:0 "§G燕型敷設艇の設計が利用可能になる§!\n"
+ JAP_mine_layer_8_ct:0 "10日ののち敷設艇隊の§l燕型敷設艇 二隻§!が予備艦隊に追加される。"
+
+ JAP_mine_layer_9:0 "第十三号型掃海艇の再編成"
+ JAP_mine_layer_9_dc:0 "§G第十三号型掃海艇の設計が利用可能になる§!\n"
+ JAP_mine_layer_9_ct:0 "30日ののち補助艦隊の§l第十三号型掃海艇 四隻§!が予備艦隊に追加される。"
+
+ JAP_mine_layer_10:0 "鹵獲掃海艇の再編成及び解析"
+ JAP_mine_layer_10_dc:0 "§G四つの設計が利用可能になる§!\n"
+ JAP_mine_layer_10_ct:0 "50日ののち§l五隻§!が予備艦隊に追加される。"
+
+ JAP_gun_boat_1:0 "砲艦の再編"
+ JAP_gun_boat_dc:0 "§G橋立型砲艦の設計が利用可能になる§!\n"
+ JAP_gun_boat_ct:0 "20日ののち§G橋立型砲艦 二隻§!が予備艦隊に追加される。"
+
+ JAP_seaplane_carrier_1:0 "能登呂型水上機母艦の再編成"
+ JAP_seaplane_carrier_1_dc:0 "§G能登呂型水上機母艦の設計が利用可能になる§!\n"
+ JAP_seaplane_carrier_1_ct:0 "40日ののち予備艦隊所属の§l水上機母艦 能登呂§!が予備艦隊に追加される。"
+
+JAP_good_ship_construction_subsidy_facility:0 "海運国策"
+ JAP_nomal_ship:0 "優秀船舶建造助成施設の実施"
+ JAP_large_ship:0 "大型優秀船舶建造助成施設の実施"
+ 
+ jap_mikasa_a:0 "民間戦艦三笠の献納"
+ jap_mikasa_b:0 "民間戦艦三笠の献納"
+ jap_mikasa_a_dc:0 "§G敷島改型の設計が利用可能になる§!\n"
+ jap_mikasa_a_ct:0 "40日ののち記念復元艦の§l戦艦 三笠§!が改装され予備艦隊に追加される。"
+
+#decision
+#イベント
+ssw_jap_flavor_news.0.t:0 "記念艦金剛"
+ssw_jap_flavor_news.0.d:0 "金剛型戦艦一番艦「金剛」は、日本初の超弩級巡洋戦艦であり、イギリスに建造を依頼した最後の主力艦でもある。完成当時世界最強の戦艦として名を馳せ、大東亜戦争においても最前線で戦い続けた艦であった。しかし、老朽化に伴って問題も発生するようになり、退役することとなった。だが、一部の退役軍人と国民からの要望もあり、モスボール状態で保存されることが決定した。「金剛」は母港のある横須賀にて、日本海海戦で活躍した同じくイギリス製の戦艦「三笠」の横に保存されている。"
+ssw_jap_flavor_news.0.a:0 "戦艦金剛、万歳!万歳!万歳!"
+ssw_jap_flavor_news.0.b:0 "大東亜戦争の功労艦か……。"
+
+ssw_jap_flavor.1.t:0 "金剛の復帰計画"
+ssw_jap_flavor.1.d:0 "どんな感じのモジュールを載せようか？"
+ssw_jap_flavor.1.a:0 "ミサイルをたくさん載せよう"
+ssw_jap_flavor.1.b:0 "強力な主砲を搭載しよう"
+ssw_jap_flavor.1.c:0 "いっそのこと空母に……。"
+
+ssw_jap_flavor.2.t:0 "金剛の復帰計画"
+ssw_jap_flavor.2.d:0 "ありあわせの艤装を搭載し現役復帰させます"
+ssw_jap_flavor.2.a:0 "早く終わるといいが。"
+
+#つーるちぷ
+unlock_museum_decition:0 "§Yディシジョン§!「§Y記念艦金剛を現役復帰させる§!」が解禁される。\nなおこれは戦時のみ使用可能である。"
+prepare_return_Kongo:0 "§Y金剛を現役艦へと戻す準備を始める§!"
+Kongo_is_under_renovation:0 "§Y金剛は未だ復帰準備ができていない§!"
+
+#
+ssw_jap_flavor.3.t:0 "戦艦三笠の復元新造計画"
+ssw_jap_flavor.3.d:0 "三笠記念艦の保全を目的とした民間団体「三笠の会」が三笠記念艦の開設から25年を記念して、記念艦三笠の復元と新造計画を立ち上げた。この団体はいくつかの企業から後援を受けており建造のための資金はほとんど募金によって集まっているとのことであるというが、三笠の会会長曰く日露戦争の功労艦である三笠をより国民に周知させるためには国費の存在が必須であるとして、支援を求めている。政府の支援がなくとも資金面において大きな問題はないことから、この計画は国費を使わずとも達成できるであろうが、会長の発言の通り、軍民の一層の協同の為にここは国庫から支援を行うべきであるとの声も聞かれる。しかし一方で政府内からはこれは国費からの拠出を得ることによってこの計画に「箔」を付けたいだけなのではないか、所詮民間の箱舟であるからこんな計画に協力する予算を一隻のボートでも海軍に付けるほうがよりよいではないのか、と厳しい声も聞かれる。政府としてどちらの立場を支持すべきだろうか?"
+ssw_jap_flavor.3.a:0 "大いに結構、しかし金は出さん。"
+ssw_jap_flavor.3.b:0 "国庫からわずかだが寄付しよう。"

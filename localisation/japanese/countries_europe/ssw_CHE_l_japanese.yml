@@ -1,0 +1,29 @@
+﻿l_japanese:
+#国家方針
+#アイデア
+#イベント
+ ssw_che_ing_assr.1.t:0 "指導者への不満"
+ ssw_che_ing_assr.1.d:0 "現在我が国の指導者である$CHE_alexander_yakovlev$はこの国の首脳部におけるスターリン主義者の代表である。彼はドイツの統治からソビエトが我々を解放した後に指導者となったが、チェチェン人やイングーシ人などのロシア人以外の民族に対し不遇な扱いを強いている。\n我々の民族のためにもソビエトロシア中央に[CHE_alexander_yakovlev]を含むスターリン主義者らの移動を求めるべきだろう。"
+ ssw_che_ing_assr.1.a:0 "中央に訴えを送ろう"
+ ssw_che_ing_assr.2.t:0 "[From.GetName]からの訴え"
+ ssw_che_ing_assr.2.d:0 "[From.GetName]から一つの訴えが届いた。指導者である$CHE_alexander_yakovlev$らスターリン主義者の首脳部が彼の地域の民族に対し圧政を強いているという。ソビエトの理想に忠実であるためにも彼を解任すべきだろうか？"
+ ssw_che_ing_assr.2.a:0 "彼を移動させなければならない"
+ ssw_che_ing_assr.2.b:0 "放置すればいいだろう"
+ ssw_che_ing_assr.3.t:0 "[CHE.GetName]の指導者"
+ ssw_che_ing_assr.3.d:0 "$CHE_alexander_yakovlev$の解任は決定した者の次の問題がある。彼の後任についてである。党と地元の有力者からの意見をまとめるとチェチェン人であり今回の件でも大きな働きをした$CHE_muslim_gairbekov$とイングーシ出身でありソビエトの石油開発事業においていくつもの貢献をした$ING_ilyas_almazov$の二人が候補者として上がっている。どちらを[CHE.GetName]の指導者として任命すべきだろうか？"
+ ssw_che_ing_assr.3.a:0 "$CHE_muslim_gairbekov$を任命しよう"
+ ssw_che_ing_assr.3.b:0 "$ING_ilyas_almazov$を任命しよう"
+ ssw_che_ing_assr.4.t:0 "指導者の交代"
+ ssw_che_ing_assr.4.d:0 "素晴らしい知らせだ!中央に我々の訴えが認められ、$CHE_alexander_yakovlev$が解任され新たな指導者として[Root.GetLeader]が任命された。これによってチェチェン人とイングーシ人の地位は回復されることだろう。"
+ ssw_che_ing_assr.4.a:0 "我々の勝利だ"
+ ssw_che_ing_assr.5.t:0 "中央が訴えを退ける"
+ ssw_che_ing_assr.5.d:0 "残念な知らせだ。中央は我々の訴えを退け、$CHE_alexander_yakovlev$を留任することを決定した。これは我々にとって悪い結果であり、少なくともこの国においては人民の平等は失われたかもしれない……"
+ ssw_che_ing_assr.5.a:0 "我々にとっての暗黒時代だ…"
+#ディシジョン
+#フラグ
+#ツールチップ
+#その他
+ CHE_famous_cultural_figure:0 "著名な文化人"
+ CHE_professor_geology:0 "地質学教授"
+ CHE_educator_for_farmer:0 "農民への教育者"
+ CHE_defender_Chechens:0 "チェチェン人の擁護者"

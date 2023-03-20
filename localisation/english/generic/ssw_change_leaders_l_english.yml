@@ -1,0 +1,4 @@
+﻿l_english:
+ can_visible_frame_tt:0 "§SSwitch leader portrait§!"
+ can_visible_name_tt:0 "§Y[GetAnotherLeader]§!"
+ cannot_visible_true_name_tt:0 "§Y[ROOT.GetLeader]§!"

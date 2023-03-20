@@ -1,0 +1,16 @@
+﻿l_japanese:
+#ディシジョン
+ SSW_special_foreign_policy:0 "特別外交政策"
+ SSW_french_unification:0 "フランス統一に向けて"
+ SSW_recapture_memel:0 "メーメル奪還戦争"
+#イベント
+ ssw_special.0.title:0 "フランスが統合を要求"
+ ssw_special.0.desc:0 ""
+ ssw_special.0.a:0 "我々は一つの民族だ!"
+ ssw_special.0.b:0 "諦めてくれ"
+ ssw_special.1.title:0 "フランスが要求を受諾"
+ ssw_special.1.desc:0 ""
+ ssw_special.1.a:0 "フランス万歳!"
+ ssw_special.2.title:0 "フランスが要求を拒否"
+ ssw_special.2.desc:0 ""
+ ssw_special.2.a:0 "ならば力で統一だな"

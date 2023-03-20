@@ -1,0 +1,27 @@
+﻿l_japanese:
+#国家方針
+ JAP_tokyo_coup_detat:0 "東京クーデター"
+ JAP_tokyo_coup_detat_desc:0 "今、我が帝国は卑劣なる社会主義者共に侵されつつある。彼らの勢力を一掃し、今こそ天皇陛下を中心とした国家へと変革させなければならない!"
+ JAP_martial_law_declared_throughout_the_country:0 "全国に戒厳令を発令"
+ JAP_martial_law_declared_throughout_the_country_desc:0 "クーデターは成功したが、いつ共産主義者や反対派が行動を起こすかわからない。全国に戒厳令を敷き、治安維持に努めるべきだろう。"
+ JAP_approval_from_his_majesty:0 "陛下からの承認"
+ JAP_approval_from_his_majesty_desc:0 "先の二・二六事件では、天皇陛下からの承認が得られず、クーデター派は逆賊扱いされた。陛下からの承認を最優先で確保し、政府内の意見をまとめるべきだ。"
+ JAP_investigating_a_case:0 "事件の捜査"
+ JAP_investigating_a_case_desc:0 "このクーデターの一因ともなった国会議事堂爆破事件の犯人は未だに見つかっていない社会主義者によるものだと確信を得ているがまだその確実な証拠さえ存在しない日本の隅から隅まで探して犯人を吊し上げよう。"
+ JAP_vigilante_control:0 "自警団の統制"
+ JAP_vigilante_control_desc:0 "各地での混乱の中で、民衆たちの手によて自警団が組織されている。彼らをうまく統制すれば、治安の回復に大いに貢献してくれるだろう。"
+ JAP_from_the_seiyukai:0 "政友会から"
+ JAP_from_the_seiyukai_desc:0 "立憲政友会は、軍縮を進めただけでなく、社会党の連中に政権を渡すという大失態を犯した。彼らの排除を視野に入れて、調査を行うべきだ。"
+ JAP_from_the_socialist_party:0 "社会党から"
+ JAP_from_the_socialist_party_desc:0 "一連のクーデターを起こすきっかけとなったのは、社会党の政策にある。彼らの政治からの排除は、今後の統治を円滑に行う上で必須であろう。"
+ JAP_sweeping_by_the_kempeitai:0 "憲兵による一斉摘発"
+ JAP_sweeping_by_the_kempeitai_desc:0 "社会党政権によって、共産主義者共は勢力を伸ばしつつある。彼らを放置しておくことは、害にしかなりえない。共産主義者共を日本から一層する時が来た。"
+ JAP_the_end_of_party_politics:0 "政党政治の終焉"
+ JAP_the_end_of_party_politics_desc:0 "戦後、政党を中心とした政治は一応の復活を見たが、その基盤は結局は脆いものであった。今こそ、政党政治を終わらせ、強力な基盤のもとに政府を作るべきだ。"
+ JAP_keep_an_eye_on_the_korea_peninsula:0 "朝鮮半島への注視"
+ JAP_keep_an_eye_on_the_korea_peninsula_desc:0 "朝鮮半島には、少数ではあるが独立派勢力が巣くっている。クーデターに伴って彼らが動かないとも考えられない。それに奴らが一連の事件に関わっている可能性も否定できない半島情勢を一度細かく調べるのが得策だ。"
+ JAP_toward_the_birth_of_a_new_prime_minister:0 "新総理の誕生に向けて"
+ JAP_toward_the_birth_of_a_new_prime_minister_desc:0 "政局はおおむね安定し、あとは陛下の代理として政治を進める総理大臣を選出するのみとなった。誰を選出すべきか、今一度確認しなければならない。"
+ 
+#アイデア
+#  jap_syakaito_ideas_8:0 "全国戒厳令"

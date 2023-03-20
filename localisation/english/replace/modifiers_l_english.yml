@@ -1,0 +1,9 @@
+﻿l_english:
+ modifier_state_production_speed_nuclear_reactor_factor:0 "$modifier_state_production_nuclear_reactor_factor$"
+ modifier_state_production_speed_nuclear_reactor_factor_desc:0 "$modifier_state_production_nuclear_reactor_factor_desc$"
+ modifier_state_repair_speed_arms_factory_factor:0 "§Y$arms_factory$§! repair speed"
+ modifier_state_repair_speed_arms_factory_factor_desc:0 "Correct the §Y$arms_factory$§! repair speed in this state."
+ modifier_state_repair_speed_industrial_complex_factor:0 "§Y$industrial_complex$§! repair speed"
+ modifier_state_repair_speed_industrial_complex_factor_desc:0 "Correct the §Y$industrial_complex$§! repair speed in this state."
+ modifier_production_speed_steel_mill_factor:0 "§Y$steel_mill$§! construction speed"
+ modifier_production_speed_steel_mill_factor_desc:0 "Corrects the $steel_mill$ construction speed."
