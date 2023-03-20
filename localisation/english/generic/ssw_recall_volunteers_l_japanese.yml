@@ -1,4 +1,4 @@
-﻿l_japanese:
+﻿l_english:
  RECALL_VOLUNTEERS_TITLE:0 "義勇軍の撤兵"
  RECALL_VOLUNTEERS_ACTION_DESC:0 "他国に送った義勇軍の召還が可能である。"
  RECALL_VOLUNTEERS_TT:0 "§Y[This.GetNameWithFlag]§!は§r召還が可能な義勇軍が必要である。§!"

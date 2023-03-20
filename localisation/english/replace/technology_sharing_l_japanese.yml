@@ -1,4 +1,4 @@
-﻿l_japanese:
+﻿l_english:
  TECH_SHARNG_FACTOR_PER_COUNTRY:0 "\n\n技術を持つ国が1つあるごとに研究時間が$VALUE|+%0$減少:\n"
  TECH_SHARNG_FACTOR_BASE:0 "基本: $VALUE|0%Y$\n"
  TECH_SHARNG_COUNTRY_BONUS:0 "ボーナス: $VALUE|0%Y$\n"

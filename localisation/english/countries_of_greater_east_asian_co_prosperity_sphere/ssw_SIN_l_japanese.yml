@@ -1,4 +1,4 @@
-﻿l_japanese:
+﻿l_english:
 #国家方針_初期ツリー
 SIN_current_status:0 "日本領昭南地域の現状"
 SIN_industrial_complex1:0 "日本からの影響"
@@ -74,7 +74,7 @@ SIN_Shonan_Imperial_University:0 "昭南帝国大学"
 SIN_we_who_are_independent:0 "独立したわれら"
 SIN_Overseas_Chinese_and_Japanese:0 "中国人と日本人"
 SIN_Addressing_the_Problem:0 "問題の対処"
-SIN_Residual_Japanese:0 "日本人との協力"
+SIN_Residual_english:0 "日本人との協力"
 SIN_Residual_Japanese_bureaucrats:0 "日本人官僚の残留"
 SIN_Sumitomo_Bank_Investment:0 "住友財閥の投資"
 SIN_Mitsubishi_Bank_Investment:0 "三菱財閥の投資"

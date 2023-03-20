@@ -1,4 +1,4 @@
-﻿l_japanese:
+﻿l_english:
  ssw_num_subjects_tt:0 "[?ROOT.num_subjects|T0]"
  ssw_num_subjects_title:0 "現在の傀儡国の数は[?ROOT.num_subjects|S0]である。"
  ssw_num_subjects_desc:0 "§S傀儡国とは、ある領域を統治し、名目上は独立しているが、実態では事実上の支配者である外部の政権・国家によって管理・統制・指揮されている国を指す。内政も外交も自己決定権が完全ではなく、支配者の利益のために操作・命令され統治される。§!"

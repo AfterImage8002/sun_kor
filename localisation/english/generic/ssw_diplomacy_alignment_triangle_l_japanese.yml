@@ -1,4 +1,4 @@
-﻿l_japanese:
+﻿l_english:
  chart_button_label_tt:0 "陣営チャート"
  flag_alignment_tt:0 "[THIS.GetName]"
  main_factions_tt:0 "与党:[THIS.GetRulingParty]\n政体:[THIS.GetRulingIdeology]\n与党支持率:[THIS.GetPartySupport]%"

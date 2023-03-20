@@ -1,4 +1,4 @@
-﻿l_japanese:
+﻿l_english:
  Balkan_fede_concept:0 "バルカン連邦構想"
 #Balkan_fede_concept_desc:0 "バルカン連邦を形成するには以下の国と地域が条件を満たす必要がある\n\n[BUL.GetFlag]ブルガリア:[Root.BalkanFedeBUL]\n[HUN.GetFlag]ハンガリー:[Root.BalkanFedeHUN]\n[CRO.GetFlag]クロアチア:[Root.BalkanFedeCRO]\n[SER.GetFlag]セルビア:[Root.BalkanFedeSER]\n[GRE.GetFlag]ギリシャ:[Root.BalkanFedeGRE]\n[ROM.GetFlag]ルーマニア:[Root.BalkanFedeROM]\n[Root.BalkanFedeDET][ALB.GetFlag]アルバニア:[Root.BalkanFedeALB]\n[MNT.GetFlag]モンテネグロ:[Root.BalkanFedeMNT]\n下記のいずれか\nエディルネ・イスタンブル:[Root.BaklanFedeTUR]\nバルカン国家が初期で領有していない中核州:[Root.BalkanFedeOtherStates]\n[SLV.GetFlag]スロベニア:[Root.BalkanFedeSLV]"
  Balkan_formation:0 "バルカン連邦の形成"
