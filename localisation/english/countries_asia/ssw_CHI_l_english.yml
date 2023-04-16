@@ -1,10 +1,10 @@
 ﻿l_english:
 #国民精神
- CHI_idea_1:0 "日本経済団"
- CHI_Kenji_Doihara:0 "土肥原賢二"
- CHI_unenacted_constitution:0 "未制定の憲法"
- CHI_unenacted_constitution_desc:0 "連邦共和国の建国を宣言したものの、憲法の制定は深刻なほどに難航しており、未だに制定されていない。\n政府内の軍閥勢力は自身らの影響力を残すためにも強力な自治権を要求いる、一方で国民党派閥は国号を中華民国に戻し中央集権的な憲法を要求している。\n他に様々な派閥から多くの案が出ており、中国の未来を決定する一大事業は多くの問題を乗り越える必要がありそうだ。"
- CHI_reckless_rapid_industrialization:0 "無謀かつ急速な工業化"
+ CHI_idea_1:0 "일본 경제단"
+ CHI_Kenji_Doihara:0 "도이하라 겐지"
+ CHI_unenacted_constitution:0 "미제정 헌법"
+ CHI_unenacted_constitution_desc:0 "연방공화국 건국을 선언했지만 헌법 제정은 심각할 정도로 난항을 겪고 있으며 아직까지 제정되지 않고 있습니다. 정부 내 군벌세력은 자신들의 영향력을 남기기 위해서라도 강력한 자치권을 요구하고 있는 반면 국민당 계파는 국호를 중화민국으로 돌려보내 중앙집권적 헌법을 요구하고 있죠. 이외에 여러 계파에서 많은 방안이 나오고 있어 중국의 미래를 결정하는 일대 사업은 많은 문제를 극복할 필요가 있어 보입니다.."
+ CHI_reckless_rapid_industrialization:0 "무모하고 급속한 공업화"
  CHI_revival_KMT:0 "国民党の再興"
  CHI_revival_KMT_1:0 "国民党の再興"
  CHI_revival_KMT_2:0 "党国"
