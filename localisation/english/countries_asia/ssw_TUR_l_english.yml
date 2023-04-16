@@ -274,12 +274,12 @@
  TUR_antiaircraft_bombardment_desc:0 ""
 
 #tooltip
- form_country_iran_iraq_syria:0 "§Yイラン・イラク・シリア地域§!を中核州とする。"
- 1_TUR_elitism:0 "§s我が国はエリート主義教育を推進する§!"
- 1_TUR_Equal_Education:0 "§s我が国は平等な教育を推奨する§!"
- 1_TUR_fire_control:0 "§s火力による制圧が、トルコ陸軍の未来を切り開くだろう§!"
- 1_TUR_Planned_Parenthood:0 "§s綿密な計画立案により、トルコ陸軍は精強なものとなるだろう§!"
- 1_TUR_mechanized_unit:0 "§s機械化部隊の運用により、トルコ陸軍は機動的な侵攻作戦が実行できるだろう§!"
+ form_country_iran_iraq_syria:0 "§Y이란·이라크·시리아 지역§!을 핵심주로 한다."
+ 1_TUR_elitism:0 "§s우리나라는 엘리트주의 교육을 추진한다§!"
+ 1_TUR_Equal_Education:0 "§s우리나라는 평등 교육을 권장한다§!"
+ 1_TUR_fire_control:0 "§s화력우세가 터키 육군의 미래를 열 것이다§!"
+ 1_TUR_Planned_Parenthood:0 "§s면밀한 계획 수립은 터키 육군을 강력하게 만들 것이다§!"
+ 1_TUR_mechanized_unit:0 "§s기계화 부대의 운영으로 터키 육군은 기동적인 침공 작전을 수행할 수 있을 것이다§!"
 
 #event
  SSW_TUR.1.t:0 "トルコの現状"
